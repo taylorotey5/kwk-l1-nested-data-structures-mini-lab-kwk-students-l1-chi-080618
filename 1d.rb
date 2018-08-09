@@ -8,7 +8,7 @@ one_direction = {"Zayn" => 25,
 #Zayn is 25 years 
 
 one_direction.each do |name, age|
-  
+  puts "#{name} is #{age} years old."
 end
 
 #How can 
